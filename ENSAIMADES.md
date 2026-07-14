@@ -1,6 +1,6 @@
 # Ensaimada mallorquina tradicional
 
-<img src="https://levanova.es/wp-content/uploads/2021/07/ensaimada1.png" alt="Ensaimada mallorquina tradicional" width="200">
+<img src="https://levanova.es/wp-content/uploads/2021/07/ensaimada1.png" alt="Ensaimada mallorquina tradicional" width="500">
 
 ## Ingredientes *(para 2 ensaimadas medianas)*
 
