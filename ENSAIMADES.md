@@ -1,5 +1,6 @@
 # Ensaimada mallorquina tradicional
-<img src="https://levanova.es/wp-content/uploads/2021/07/ensaimada1.png" alt="Ensaimada mallorquina tradicional" style="max-width: 200px;">
+
+<img src="https://levanova.es/wp-content/uploads/2021/07/ensaimada1.png" alt="Ensaimada mallorquina tradicional" width="200">
 
 ## Ingredientes *(para 2 ensaimadas medianas)*
 
@@ -53,7 +54,4 @@
 
 ---
 
-> 💡 **Consejo mallorquín**
-> La clave de una auténtica ensaimada está en la fermentación lenta y prolongada y en utilizar una buena manteca de cerdo (*"saïm"* en mallorquín, de donde proviene el nombre ensaimada). También puedes rellenarla después de horneada con crema, cabello de ángel o nata montada. 
-> 
-> ¡Bon profit! 🥐✨
+> ¡Bon profit! ✨
